@@ -63,3 +63,21 @@ h3 {
 header {
 	background-color: #379392;
 }
+.droite {
+	margin-left: 100px;
+}
+.bloc1 {
+
+	margin-left: 100px;
+	margin-right: 50px;
+}
+
+.bloc2 {
+	margin-right: 100px;
+	margin-left: 100px;
+}
+
+.bloc3 {
+	margin-right: 100px;
+
+}
