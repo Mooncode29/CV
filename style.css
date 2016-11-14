@@ -2,3 +2,9 @@
 .duree {
 	font-style: italic;
 }
+.row {
+	border: 2px solid green;
+}
+#competences{
+	border: 2px solid red;
+}
