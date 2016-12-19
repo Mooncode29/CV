@@ -2,9 +2,51 @@
 .duree {
 	font-style: italic;
 }
-.row {
+/*.row {
 	border: 2px solid green;
-}
-#competences{
+}*/
+/*#competences{
 	border: 2px solid red;
+}*/
+/*column {
+	border : 2px solid blue;
+}*/
+.espace {
+	height: 1em;
+}
+/*html {
+	font-size: 20px !important;
+}
+*/
+.projet {
+	margin-top: 6em;
+	margin-bottom: 6em;
+}
+/*.date {
+	margin-right: 4em;
+	font-size: 18px;
+}*/
+.title {
+	margin-left: 9em;
+	margin right: 5em;
+	
+}
+/*.structure {
+	margin-left: 11em;
+}*/
+.adaptathon {
+	font-style: italic;
+}
+.projet {
+	text-decoration: underline;
+}
+.formation{
+	margin-right: 5em;
+}
+#main {
+	background-image: url(/seigaiha/seigaiha.png);
+	margin-bottom: 0em;
+}
+.titreDroite {
+	  	background-color: #c6e5d9;
 }
